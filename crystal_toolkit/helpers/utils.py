@@ -1,4 +1,4 @@
-from crystal_toolkit import _DEFAULTS
+from crystal_toolkit.defaults import _DEFAULTS
 
 
 def update_object_args(d_args, object_name, allowed_args):
